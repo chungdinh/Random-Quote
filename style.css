@@ -1,0 +1,33 @@
+body {
+  background: url(https://uphinhnhanh.com/images/2017/08/29/wallpaper-1718135.jpg)no-repeat center center fixed;
+  
+  background-size: cover;
+  
+}
+
+.quoteContainer {
+  background: rgba(255, 255, 255, .25);
+  padding: 50px;
+  width: 65%;
+  margin-right: auto;
+  margin-left: auto;
+  border-radius: 25px;
+  font-size: 1.5em;
+  padding-bottom: 1%;
+}
+h1{
+  color: green;
+  font-family: "Times New Roman", Georgia, Serif;
+  font-size: 50px;
+  
+}
+h3{
+  color: orange;
+  font-size: 25x;
+  
+}
+p{
+  color: DarkMagenta ;
+  font-size: 30x;
+  
+}
